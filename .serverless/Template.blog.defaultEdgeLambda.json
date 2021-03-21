@@ -1,0 +1,17 @@
+{
+  "name": "l2uchd-zv32u",
+  "hash": "GPnL5NPaXJHXJxtqkume7gjaGnA3wMDiX2CuLj42TZg=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/alfie/Dev/blog/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::584890586424:role/l2uchd-urh2l2j"
+  },
+  "arn": "arn:aws:lambda:us-east-1:584890586424:function:l2uchd-zv32u",
+  "region": "us-east-1"
+}

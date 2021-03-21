@@ -1,0 +1,17 @@
+{
+  "name": "l2uchd-udeenv8",
+  "hash": "bSuUhsaed0ymwGwCeHm0sgHbqEdUfkUPnmVbUQwflkw=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/alfie/Dev/blog/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::584890586424:role/l2uchd-85tfxaa"
+  },
+  "arn": "arn:aws:lambda:us-east-1:584890586424:function:l2uchd-udeenv8",
+  "region": "us-east-1"
+}
